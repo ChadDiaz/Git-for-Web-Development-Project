@@ -2,15 +2,15 @@ https://codepen.io/chaddiaz/pen/WNrzPpL
     1. What is Semantic HTML? 
         //html that introduces meaning to the web page instead of just having presentation. 
     2. What is HTML used for?   
-        //HTML is used for created web pages.
+        //HTML is used for created web pages - development
     3. What is an attribute and where do we put it?
         // specific words that we put in tags to control the content / elements direction / behavior
     4. What is the h1 tag used for? How many times should I use it on a page?
         //Heading 1 and it should only ever be used 1 time.
     5. Name two tags that have required attributes
-        // a tag and img tag 
+        // link tag and img tag 
     6. What do we put in the head of our HTML document? 
-        // meta tags that help google find your page and also the title of the page, that will be displyed on the web page tag
+        // meta tags that help google find your page and also the title of the page, that will be displyed on the web page tag.  In addition, you'll put the css and js files in the head of the html file.
     7. What is an id? 
         //very specific tag that can be given to a tag to help in the styling process later in your project.
     8. What elements can I add an id to? 
@@ -18,19 +18,31 @@ https://codepen.io/chaddiaz/pen/WNrzPpL
     9. How many times can I use the same id on a page? 
         // 1 time
     10. What is a class? 
-        
+        //it is an attribute which identifies one or more 'class' names for an element.
     11. What elements can I add a class to? 
+        //any HTML element 
     12. How many times can I use the same class on a page? 
+        //only 1 time per page.  
     13. How do I get my link to open in a new tab?
+        //target="blank"
     14. What is the alt attribute in the image tag used for? 
+        //to help describe what the image is to assist in the use of the accessability features. 
     15. How do I reference an id?
+        //#<id name>
     16. What is the difference between a section and a div
+        // the section tag defines a section in the html document and a div marks certain areas within a section.
     17. What is CSS used for? 
+        // styling of the HTML document.
     18. How to we select an element? Example - every h2 on the page
+        //* h2 { }
     19. What is the difference between a class and an id? - Give me an example of when I might use each one
+        //Class needs to be thought of like a classroom.  there are multiple students all in one room and when you address that 'class' you're addressing all of the students.  An 'ID' is specific to one thing and only that one thing. You would want to use an ID for something that will only be in the HTML document 1 time, like header / footer.  You could give them the ID "footer id="main footer" or "header id="main header".
     20. How do we select classes in CSS?
+        //.<class name>
     21. How do we select a p element with a single class of “human””?
+        //.human p { }
     22. What is a parent child selector? When would this be useful? 
+        //
     23. How do you select all links within a div with the class of sidebar?
     24. What is a pseudo selector?
     25. What do we use the change the spacing between lines?
