@@ -1,4 +1,4 @@
-https://codepen.io/chaddiaz/pen/WNrzPpL
+https://codepen.io/chaddiaz/pen/wvMxzdK
     1. What is Semantic HTML? 
         //html that introduces meaning to the web page instead of just having presentation. 
     2. What is HTML used for?   
@@ -60,7 +60,7 @@ https://codepen.io/chaddiaz/pen/WNrzPpL
     29. How do I select everything on the page? 
         // *
     30. How do I write a comment in CSS?
-        // */ write your comment here and end */
+        // /* write your comment here and end */
     31. How do I find out what file I am in, when I am using the command line? 
         //pwd 
     32. Using the command line - how do I see a list of files/folders in my current folder?
@@ -81,3 +81,5 @@ https://codepen.io/chaddiaz/pen/WNrzPpL
         4. create my own branch using "first name-last name" chad-diaz as ex. 
         5. after I've done all of the work for my assignment, I need to request a pull.  
         6. Add my TL as a reviewer for my pull request.  My TL, after checking my work, will merge my work into the main branch.  
+
+        
