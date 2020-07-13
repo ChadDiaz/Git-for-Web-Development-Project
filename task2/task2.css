@@ -1,0 +1,30 @@
+/*I'm having a problem getting the "learning to code" closer to the top of the boarder */
+body {
+    border: 20px solid #dd093e;
+    padding: 8%;
+    font-size: 20px;
+    color: #2f4f4f;
+    }
+h1 {
+    color: #14e2af;
+    text-align: center;
+    }
+h1:hover {
+    color: #141414;
+}
+.firstp {
+    background-color: #7fff7f;
+    padding: 5%;
+}
+.firstp:hover {
+    background-color: #3a9651;
+}
+.section1 {
+    background-color: #099ba0;
+    padding: 5%;
+    color: #c5dfe0
+}
+.section1:hover {
+    background-color: #3a890c;
+    color: #0eaaf2;
+}
